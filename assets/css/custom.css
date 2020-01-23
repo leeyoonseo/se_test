@@ -3,3 +3,41 @@
 #smart_editor2 .husky_seditor_ui_OnClick .se2_onclick { 
     background-position:-534px -10px;
 };
+
+#smart_editor2 .se2_text_tool .se2_layer .se2_in_layer{
+    
+}
+
+#smart_editor2 .se2_onclick2{
+    width: 281px;
+    padding: 11px 11px 6px 11px;
+    color: #666;  
+}
+
+#smart_editor2 .se2_onclick2 .input_ty1{
+    display: block;
+    width: 185px;
+    height: 16px;
+    margin: 0 5px 5px 0;
+    padding: 5px 2px 0 4px;
+
+}
+#smart_editor2 .se2_onclick2 .se2_apply{
+    position: absolute;
+    top: 13px;
+    right: 51px;
+    width: 41px;
+    height: 24px;
+    margin: -1px 3px 1px 0;
+    background: url(../img/ko_KR/btn_set.png?130306) no-repeat;
+}
+
+#smart_editor2 .se2_onclick2 .se2_cancel{
+    position: absolute;
+    top: 13px;
+    right: 9px;
+    width: 39px;
+    height: 24px;
+    margin: -1px 3px 1px 0;
+    background: url(../img/ko_KR/btn_set.png?130306) -41px 0 no-repeat;
+}
