@@ -1,6 +1,7 @@
 # se_test
 
 [SmartEditor 커스텀 화면확인]
+- npm install
 - node app.js
 
 [SmartEditor 커스텀 작업내역]
