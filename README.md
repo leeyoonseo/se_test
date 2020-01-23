@@ -1,4 +1,4 @@
-# se_test
+# smartEditor2_add_plugin_onclick
 
 [SmartEditor 커스텀 화면확인]
 - npm install
