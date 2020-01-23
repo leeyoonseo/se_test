@@ -1,11 +1,13 @@
 @charset "UTF-8";
 
-#smart_editor2 .husky_seditor_ui_OnClick .se2_onclick { 
+#smart_editor2 .se2_text_tool .se2_onclick{
     background-position:-534px -10px;
-};
+}
 
-#smart_editor2 .se2_text_tool .se2_layer .se2_in_layer{
-    
+#smart_editor2 .off .se2_onclick, 
+#smart_editor2 .off .se2_onclick2{
+    opacity: .5;
+    cursor: default;
 }
 
 #smart_editor2 .se2_onclick2{
